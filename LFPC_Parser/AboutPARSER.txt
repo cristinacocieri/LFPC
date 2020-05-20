@@ -1,0 +1,10 @@
+This is a Parser for Mathematical Expressions.
+
+In this program you can use:
+
+-Mathematic Operators           +  -  *  /
+-Specifical Functions           %  sqrt  ^
+-Trigonometric functions        sin cos arcsin asccos tg ctg arctg arcctg
+-Hiperbolic functions           sh ch th cth
+-Logaritmic functions           lg ln e^
+-Constants                      g=9.81 pi=3.14 e=2.71
