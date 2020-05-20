@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(51,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(53,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(65,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(67,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(77,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(83,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(85,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(101,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(103,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(119,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(121,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(132,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(134,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(148,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(151,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(159,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(162,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(170,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Source.cpp(173,21): warning C4018:  '<': signed/unsigned mismatch
+  ChomskyNormalForm.vcxproj -> C:\Users\Cristina\University\Second year\LFPC\ChomskyNormalForm\Debug\ChomskyNormalForm.exe

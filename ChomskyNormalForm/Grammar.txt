@@ -1,0 +1,5 @@
+S->dB|A
+A->d|dS|aBdB
+B->a|aS|AC
+D->AB
+C->bC|*
